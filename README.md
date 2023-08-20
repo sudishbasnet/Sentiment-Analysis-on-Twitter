@@ -1,1 +1,5 @@
-# Sentiment-Analysis-on-Twitter
+Abstract
+This project conducts sentiment analysis on Twitter data, specifically targeting tweets to explore public sentiments towards diverse topics, events, brands, and more. Employing natural language processing techniques and machine learning algorithms, insights are extracted from a substantial dataset comprising over 134,198 meta data. The investigation highlights the significance of processed text compared to raw text when training machine learning models for sentiment analysis. Various feature engineering methods are explored, along with diverse statistical evaluation metrics. The report outlines the methodology, presents results, and emphasizes the role of sentiment analysis in real-time comprehension of public opinions.
+
+
+Keywords – Tweets, Sentiment Analysis, Machine Learning, Natural Language Processing, NumPy, Pandas, NLTK, NEATEXT, Regex, Seaborn, Sklearn, Vectorizer, Bag of Words, TF-IDF, Hashing, Tokenization, VADER Sentiment Analyzer, Polarity Score, Grid Search CV, Logistic Regression, Multinomial Naïve Bayes, Linear SVC, Random Forest, and K-Nearest Neighbor.
